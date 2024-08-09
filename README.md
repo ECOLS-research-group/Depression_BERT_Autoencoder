@@ -72,10 +72,6 @@ This project uses the following datasets:
 
 This project is built upon the work of researchers and developers in the fields of NLP and deep learning, particularly those who developed BERT and autoencoders.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Programmer
 
 - Anuraag Raj
