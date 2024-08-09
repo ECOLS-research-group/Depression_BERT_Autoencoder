@@ -74,7 +74,7 @@ This project is built upon the work of researchers and developers in the fields 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Programmer
 
