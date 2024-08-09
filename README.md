@@ -1,4 +1,4 @@
-# Depression Detection using BERT and Autoencoder
+# Depression Detection using BERT on Social Media Platforms
 
 This repository contains code for detecting depression through social media posts using BERT for feature extraction and an autoencoder for dimensionality reduction.
 
