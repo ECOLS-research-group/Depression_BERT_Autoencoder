@@ -1,10 +1,17 @@
-# Depression Detection using BERT on Social Media Platforms
+# BERT vs. Autoencoder in Analyzing Depression from Text Data
 
-This repository contains code for detecting depression through social media posts using BERT for feature extraction and an autoencoder for dimensionality reduction.
+Copyright (c) 2024, ECOLS - All rights reserved.
+
+## Version 1.0
+
+The student **Anuraag Raj** wrote the code for **BERT vs. Autoencoder in Analyzing Depression from Text Data**, with **Zain Ali** contributing by writing the code for **BERT** and providing **encoded vectors**. The code was written in **Python**.
+
+**Paper**: *Depression Detection using BERT on Social Media Platforms*. Paper presented at the **IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET 2024)**.  
+**Authors**: Anuraag Raj, Zain Ali, Shonal Chaudhary, Kavitesh Bali and Anuraganand Sharma.
 
 ## Overview
 
-This project aims to identify signs of depression in text data by combining the strengths of BERT for capturing contextual information and autoencoders for reducing feature dimensionality.
+This repository contains code for detecting depression through social media posts using BERT for feature extraction and an autoencoder for dimensionality reduction. This project aims to identify signs of depression in text data by combining the strengths of BERT for capturing contextual information and autoencoders for reducing feature dimensionality.
 
 ## Key Features
 
