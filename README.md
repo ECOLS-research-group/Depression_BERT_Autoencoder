@@ -82,3 +82,4 @@ This project is built upon the work of researchers and developers in the fields 
 ## Programmer
 
 - Anuraag Raj
+- Zain Ali
